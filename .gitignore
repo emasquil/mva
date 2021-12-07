@@ -1,0 +1,6 @@
+# Vscode
+**/.vscode
+# Build directories (C++)
+**/build
+# Zipfiles
+**.zip
