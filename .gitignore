@@ -4,3 +4,5 @@
 **/build
 # Zipfiles
 **.zip
+# Jupyter checkpoints
+**/.ipynb_checkpoints
