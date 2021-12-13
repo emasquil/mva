@@ -6,3 +6,5 @@
 **.zip
 # Jupyter checkpoints
 **/.ipynb_checkpoints
+# HTML reports
+**/html
