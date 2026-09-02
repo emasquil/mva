@@ -12,3 +12,4 @@
 computational_optimal_transport/numerical_tours/report
 computational_optimal_transport/numerical_tours/nt_toolbox
 computational-optimal-transport/.ot/
+**.pth
